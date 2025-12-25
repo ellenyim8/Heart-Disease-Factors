@@ -1,4 +1,6 @@
-# Tableau Project 
+# Exploring Heart Disease Patterns
+Tableau - Data Visualization Project 
+
 Exploratory and explanative visual analytics
 
 Categorical (Dimensions)
